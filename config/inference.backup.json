@@ -1,0 +1,1 @@
+{"SchemaVersion":1,"ContextSize":131072,"MaxOutputTokens":65536,"BatchSize":2048,"MicroBatchSize":512,"FlashAttention":"on","CacheTypeK":"q8_0","CacheTypeV":"q8_0","GpuLayers":999,"DependencyDirectories":[]}

@@ -1,0 +1,8 @@
+{
+    "private":  true,
+    "name":  "workbench-harness-runtime",
+    "version":  "1.0.0",
+    "dependencies":  {
+                         "@deepseek-ai/dsh":  "0.1.5-rc.3"
+                     }
+}

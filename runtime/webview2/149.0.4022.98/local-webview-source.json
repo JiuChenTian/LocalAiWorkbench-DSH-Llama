@@ -1,0 +1,9 @@
+{
+    "version":  "149.0.4022.98",
+    "architecture":  "x64",
+    "signer":  "CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US",
+    "importedUtc":  "2026-09-29T13:05:47.4812921Z",
+    "sourceDirectory":  "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\149.0.4022.98",
+    "officialFixedVersionPackage":  false,
+    "origin":  "local-installed-evergreen-copy"
+}

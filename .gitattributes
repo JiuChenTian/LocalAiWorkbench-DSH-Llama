@@ -1,0 +1,9 @@
+* -text
+"components/ffmpeg/8.1.2-essentials_build/bin/ffmpeg.exe" filter=lfs diff=lfs merge=lfs -text
+"components/ffmpeg/8.1.2-essentials_build/bin/ffplay.exe" filter=lfs diff=lfs merge=lfs -text
+"components/ffmpeg/8.1.2-essentials_build/bin/ffprobe.exe" filter=lfs diff=lfs merge=lfs -text
+"runtime/node/node-v24.21.0-win-x64/node.exe" filter=lfs diff=lfs merge=lfs -text
+"runtime/webview2/149.0.4022.98/msedge.dll" filter=lfs diff=lfs merge=lfs -text
+"temp/components/llama.cpp/ninfer/20261001-p0warn-cuda-sm120a-9382051384fb/engine-pack-p0warn-sm120a/engine/avcodec-63.dll" filter=lfs diff=lfs merge=lfs -text
+"temp/components/llama.cpp/ninfer/20261001-p0warn-cuda-sm120a-9382051384fb/engine-pack-p0warn-sm120a/engine/cublasLt64_13.dll" filter=lfs diff=lfs merge=lfs -text
+"temp/components/llama.cpp/ninfer/20261001-p0warn-cuda-sm120a-9382051384fb/engine-pack-p0warn-sm120a/engine/ninfer-serve-120a.exe" filter=lfs diff=lfs merge=lfs -text

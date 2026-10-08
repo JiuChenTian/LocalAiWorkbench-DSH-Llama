@@ -1,0 +1,20 @@
+{"time":"2026-10-08T13:47:31.4042444+08:00","level":"Information","eventName":"ApplicationStarted","message":"\u684C\u9762\u57FA\u7840\u7248\u672C\u542F\u52A8\u3002"}
+{"time":"2026-10-08T13:47:36.7351695+08:00","level":"Information","eventName":"ApplicationStopped","message":"\u684C\u9762\u5DE5\u4F5C\u533A\u5173\u95ED\u3002"}
+{"time":"2026-10-08T13:51:01.9878279+08:00","level":"Information","eventName":"ApplicationStarted","message":"\u684C\u9762\u57FA\u7840\u7248\u672C\u542F\u52A8\u3002"}
+{"time":"2026-10-08T13:51:12.6680818+08:00","level":"Information","eventName":"ModelScanCompleted","message":"\u53D1\u73B0 0 \u4E2A\u91CF\u5316\u7248\u672C\u30010 \u4E2A\u6295\u5F71\u6587\u4EF6\uFF1B\u89E3\u6790 0\uFF0C\u7F13\u5B58 0\uFF0C\u63D0\u793A 0\u3002"}
+{"time":"2026-10-08T13:51:29.1856902+08:00","level":"Information","eventName":"ApplicationStopped","message":"\u684C\u9762\u5DE5\u4F5C\u533A\u5173\u95ED\u3002"}
+{"time":"2026-10-08T13:54:36.9490442+08:00","level":"Information","eventName":"ApplicationStarted","message":"\u684C\u9762\u57FA\u7840\u7248\u672C\u542F\u52A8\u3002"}
+{"time":"2026-10-08T13:54:42.2571838+08:00","level":"Information","eventName":"ApplicationStopped","message":"\u684C\u9762\u5DE5\u4F5C\u533A\u5173\u95ED\u3002"}
+{"time":"2026-10-08T13:58:21.398615+08:00","level":"Information","eventName":"ApplicationStarted","message":"\u684C\u9762\u57FA\u7840\u7248\u672C\u542F\u52A8\u3002"}
+{"time":"2026-10-08T13:58:24.9398194+08:00","level":"Information","eventName":"ModelScanCompleted","message":"\u53D1\u73B0 0 \u4E2A\u91CF\u5316\u7248\u672C\u30010 \u4E2A\u6295\u5F71\u6587\u4EF6\uFF1B\u89E3\u6790 0\uFF0C\u7F13\u5B58 0\uFF0C\u63D0\u793A 0\u3002"}
+{"time":"2026-10-08T13:58:51.8445275+08:00","level":"Information","eventName":"ApplicationStopped","message":"\u684C\u9762\u5DE5\u4F5C\u533A\u5173\u95ED\u3002"}
+{"time":"2026-10-08T14:00:11.0876944+08:00","level":"Information","eventName":"ApplicationStarted","message":"\u684C\u9762\u57FA\u7840\u7248\u672C\u542F\u52A8\u3002"}
+{"time":"2026-10-08T14:00:13.2432786+08:00","level":"Information","eventName":"ModelScanCompleted","message":"\u53D1\u73B0 0 \u4E2A\u91CF\u5316\u7248\u672C\u30010 \u4E2A\u6295\u5F71\u6587\u4EF6\uFF1B\u89E3\u6790 0\uFF0C\u7F13\u5B58 0\uFF0C\u63D0\u793A 0\u3002"}
+{"time":"2026-10-08T14:00:29.0781037+08:00","level":"Information","eventName":"ModelScanCompleted","message":"\u53D1\u73B0 0 \u4E2A\u91CF\u5316\u7248\u672C\u30010 \u4E2A\u6295\u5F71\u6587\u4EF6\uFF1B\u89E3\u6790 0\uFF0C\u7F13\u5B58 0\uFF0C\u63D0\u793A 0\u3002"}
+{"time":"2026-10-08T14:00:58.917522+08:00","level":"Information","eventName":"ApplicationStopped","message":"\u684C\u9762\u5DE5\u4F5C\u533A\u5173\u95ED\u3002"}
+{"time":"2026-10-08T15:00:33.6222423+08:00","level":"Information","eventName":"ApplicationStarted","message":"\u684C\u9762\u57FA\u7840\u7248\u672C\u542F\u52A8\u3002"}
+{"time":"2026-10-08T15:01:15.6166131+08:00","level":"Information","eventName":"ApplicationStopped","message":"\u684C\u9762\u5DE5\u4F5C\u533A\u5173\u95ED\u3002"}
+{"time":"2026-10-08T15:04:06.8030154+08:00","level":"Information","eventName":"ApplicationStarted","message":"\u684C\u9762\u57FA\u7840\u7248\u672C\u542F\u52A8\u3002"}
+{"time":"2026-10-08T15:04:13.0367579+08:00","level":"Information","eventName":"ApplicationStopped","message":"\u684C\u9762\u5DE5\u4F5C\u533A\u5173\u95ED\u3002"}
+{"time":"2026-10-08T15:11:04.563744+08:00","level":"Information","eventName":"ApplicationStarted","message":"\u684C\u9762\u57FA\u7840\u7248\u672C\u542F\u52A8\u3002"}
+{"time":"2026-10-08T15:11:07.2830384+08:00","level":"Information","eventName":"ApplicationStopped","message":"\u684C\u9762\u5DE5\u4F5C\u533A\u5173\u95ED\u3002"}

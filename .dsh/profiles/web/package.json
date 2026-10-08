@@ -1,0 +1,11 @@
+{
+  "name": "dsh-profile-web",
+  "private": true,
+  "dependencies": { "dshmarket": "1.66.6", "workbench-native-config": "file:vendor/workbench-native-config" },
+  "dsh": {
+    "profile": {
+      "bundles": ["@deepseek-ai/dsh-base", "@deepseek-ai/dsh-web-app", "dshmarket", "workbench-native-config"],
+      "patchReload": "live"
+    }
+  }
+}

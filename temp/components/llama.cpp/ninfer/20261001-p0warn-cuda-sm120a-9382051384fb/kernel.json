@@ -1,0 +1,113 @@
+{
+  "Id": "9382051384fb8808d6c8d765a8d75b5621cab09cd0e8fdd35a710cd0c38fc88f",
+  "Package": {
+    "Source": "ninfer",
+    "Version": "20261001-p0warn",
+    "Backend": "cuda-sm120a",
+    "ExpectedSha256": null,
+    "Executable": "engine-pack-p0warn-sm120a/engine/ninfer-serve-120a.exe"
+  },
+  "ArchiveSha256": "9382051384FB8808D6C8D765A8D75B5621CAB09CD0E8FDD35A710CD0C38FC88F",
+  "Directory": "components/llama.cpp/ninfer/20261001-p0warn-cuda-sm120a-9382051384fb",
+  "Executable": "engine-pack-p0warn-sm120a/engine/ninfer-serve-120a.exe",
+  "Files": [
+    {
+      "Path": "engine-pack-p0warn-sm120a/README-pack.md",
+      "Bytes": 5992,
+      "Sha256": "617F3C3A1EE9F28EC698D7CCF4BC193CF8C93A37E32DB07BBF5DA7EB78C5132C"
+    },
+    {
+      "Path": "engine-pack-p0warn-sm120a/SHA256SUMS.txt",
+      "Bytes": 1643,
+      "Sha256": "21CC261D75012429ABA3E5809FB02B2FF4B8A242C67D97BACE519ABF6CE4B740"
+    },
+    {
+      "Path": "engine-pack-p0warn-sm120a/start-ptq1-mtp.bat",
+      "Bytes": 3478,
+      "Sha256": "9A2FBBBB31C3E856ABCCE7E4B6E47927120C2925D3C78D40775427BEE2FA5F35"
+    },
+    {
+      "Path": "engine-pack-p0warn-sm120a/engine/avcodec-63.dll",
+      "Bytes": 118445056,
+      "Sha256": "6C1261FCE61F9E45EF75336E471D717CA90E651ECD9AE4F275D00009E0ABBCCF"
+    },
+    {
+      "Path": "engine-pack-p0warn-sm120a/engine/avformat-63.dll",
+      "Bytes": 23643648,
+      "Sha256": "F4FF30EEC58AE74A0B24961FEEB692A1910EF5C342C45A00D1AC45E2FACBCA00"
+    },
+    {
+      "Path": "engine-pack-p0warn-sm120a/engine/avutil-61.dll",
+      "Bytes": 3030528,
+      "Sha256": "362AFC7047F618E10A2BF436844517DAF29E3E473FFDEBF4A23C30FF2E6AB2AB"
+    },
+    {
+      "Path": "engine-pack-p0warn-sm120a/engine/cublas64_13.dll",
+      "Bytes": 51870320,
+      "Sha256": "F1D500D0CD892F5B8C6B6CDBFFD82D0C55D5F5427215668E7CEB55AEECCC1B63"
+    },
+    {
+      "Path": "engine-pack-p0warn-sm120a/engine/cublasLt64_13.dll",
+      "Bytes": 460301424,
+      "Sha256": "B592CD016D7673E9CB97716A22B27C4010EE635377A3BA28F37070A9BDB76A68"
+    },
+    {
+      "Path": "engine-pack-p0warn-sm120a/engine/cudart64_13.dll",
+      "Bytes": 551024,
+      "Sha256": "B00CA6F53699120DA815BF3E06E2E4285FAE2F201235B883DCBB50EEC51E2A2A"
+    },
+    {
+      "Path": "engine-pack-p0warn-sm120a/engine/kitcheck-ptq1.ps1",
+      "Bytes": 6991,
+      "Sha256": "204E5FC78CF4E9F4A92C57DA8B19052A53D59AE99EA6B3243CDDF51D106575BD"
+    },
+    {
+      "Path": "engine-pack-p0warn-sm120a/engine/libcurl-x64.dll",
+      "Bytes": 3648104,
+      "Sha256": "10C8871B2188095C26B28767B4F99DC97D0F6FAB58A70BE47F6679CD9126B13F"
+    },
+    {
+      "Path": "engine-pack-p0warn-sm120a/engine/ninfer-serve-120a.exe",
+      "Bytes": 1289939968,
+      "Sha256": "93411BCF337961F3BBF6528CEA040CE75DAF365787F64DE1C313271C4633C0BB"
+    },
+    {
+      "Path": "engine-pack-p0warn-sm120a/engine/pick-engine.bat",
+      "Bytes": 4634,
+      "Sha256": "CCE0709B79F75F1CE0DB0D01673F8A3600F44E7E7ABE24281E116CA2E76E0217"
+    },
+    {
+      "Path": "engine-pack-p0warn-sm120a/engine/swresample-7.dll",
+      "Bytes": 738816,
+      "Sha256": "A81BE671FE3FDEBB6BC12ABC1268C6E065D68DE61DDF1EFCA721E52752F10F8F"
+    },
+    {
+      "Path": "engine-pack-p0warn-sm120a/engine/swscale-10.dll",
+      "Bytes": 2370048,
+      "Sha256": "DC0CBDA7376786E63E4B427F1340CFDEE809700EC5F81C3016274CDAA8C3EB10"
+    },
+    {
+      "Path": "engine-pack-p0warn-sm120a/engine/\u6863\u4F4D\u63A2\u9488.ps1",
+      "Bytes": 4901,
+      "Sha256": "A446445C5C69243710B2D2F67A974F53FE3070C9037FDA4E1427EAEF4CFA8897"
+    },
+    {
+      "Path": "engine-pack-p0warn-sm120a/engine/\u81EA\u68C0-\u5185\u6D4B\u5305.ps1",
+      "Bytes": 8912,
+      "Sha256": "197E337D15362E27B9666D57B6F153CD71160166019944D2B9DE3ABFBA018EC1"
+    },
+    {
+      "Path": "engine-pack-p0warn-sm120a/engine/\u81EA\u68C0-\u5F15\u64CE\u4E0E\u5361\u5339\u914D.ps1",
+      "Bytes": 4676,
+      "Sha256": "80F2FC4EFEF4991EEA7DBB9D82AC9C0891F17BA9D5C5888035D3661EE79D3D03"
+    },
+    {
+      "Path": "engine-pack-p0warn-sm120a/engine/\u81EA\u68C0-\u6A21\u578B\u4EF6.ps1",
+      "Bytes": 11933,
+      "Sha256": "0DB9F21BE35F30BC402F4B9358759D81A370CF2D1058DE47C854E13145916F85"
+    }
+  ],
+  "ImportedAt": "2026-10-03T11:19:34.4580137+00:00",
+  "Description": "ninfer / 20261001-p0warn / cuda-sm120a",
+  "Status": "\u5DF2\u5BFC\u5165"
+}

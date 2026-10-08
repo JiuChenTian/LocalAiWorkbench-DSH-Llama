@@ -1,0 +1,6 @@
+# The desktop owns the Harness process and its Windows Job Object.
+# Restart Harness through the desktop's independent stop/start switch.
+- id: dsh-market
+  name: dshmarket
+  config:
+    allowRestart: false

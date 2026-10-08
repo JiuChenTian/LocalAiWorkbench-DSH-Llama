@@ -1,0 +1,87 @@
+{
+    "formatVersion":  1,
+    "distribution":  "internal-development-preview",
+    "readyForOfflineRelease":  false,
+    "target":  "Windows x64",
+    "frameworkDependent":  false,
+    "dotnetRuntime":  "10.0.9",
+    "webviewRuntime":  {
+                           "deploymentValidated":  false,
+                           "version":  "149.0.4022.98",
+                           "origin":  "local-installed-evergreen-copy"
+                       },
+    "kernels":  [
+                    {
+                        "source":  "upstream",
+                        "version":  "b11120",
+                        "backend":  "cuda-13.4",
+                        "directory":  "components/llama.cpp/upstream/b11120-cuda-13.4-0e63d7356712",
+                        "archiveSha256":  "0E63D7356712EC64A409A16396B4D61381B5B0CC67F3841D36B27E66603FF430",
+                        "fileCount":  52,
+                        "bytes":  191857949,
+                        "executionValidated":  false
+                    },
+                    {
+                        "source":  "prism",
+                        "version":  "prism-b10709-9a9394a",
+                        "backend":  "cuda-13.3",
+                        "directory":  "components/llama.cpp/prism/prism-b10709-9a9394a-cuda-13.3-d656f217172c",
+                        "archiveSha256":  "D656F217172C489706DF40951E46BEF647EB1A81EB8EEB1398C8F38BD7FA9725",
+                        "fileCount":  67,
+                        "bytes":  178139136,
+                        "executionValidated":  false
+                    }
+                ],
+    "installation":  "portable: extract and run LocalAiWorkbench.exe in the archive root; no installer",
+    "components":  {
+                       "harness":  "0.1.5-rc.3",
+                       "node":  "24.21.0",
+                       "harnessLockSha256":  "fc2bfc17c840c6013e7ee6f6d1736f7023df992551c223ca1a8d40fc6b34bb27",
+                       "ffmpeg":  "8.1.2-essentials_build"
+                   },
+    "bundledPlugins":  {
+                           "profile":  ".dsh/profiles/web",
+                           "source":  "https://github.com/dsh-market/dsh-market",
+                           "name":  "dshmarket",
+                           "version":  "1.66.6",
+                           "pnpm":  "10.34.6"
+                       },
+    "excludedUserData":  [
+                             "config",
+                             "cache",
+                             "logs",
+                             "models",
+                             "workspaces",
+                             "downloads",
+                             "temp",
+                             "imports"
+                         ],
+    "outstanding":  [
+
+                    ],
+    "harnessUpdate":  {
+                          "source":  "official npm @deepseek-ai/dsh",
+                          "activeDirectory":  "components/deepseek-harness/0.1.5-rc.3",
+                          "selection":  "exact version, manual install",
+                          "recovery":  "journaled directory swap; stop Harness before update or rollback",
+                          "backupSlots":  1,
+                          "baseline":  "0.1.5-rc.3",
+                          "userData":  "configuration and sessions are not rolled back",
+                          "locking":  "component inventory SHA-256 plus exact package/dependency versions",
+                          "otherComponents":  "not updated"
+                      },
+    "scope":  {
+                  "signing":  "unsigned preview",
+                  "bundledWebViewEvidence":  "Local isolated loading previously passed for 149.0.4022.98; this package has not undergone clean-machine acceptance.",
+                  "skipped":  [
+                                  "cross-version application upgrade",
+                                  "real system integration acceptance",
+                                  "automatic kernel dependency installation and hardware adaptation",
+                                  "additional redistribution material collection",
+                                  "duplicate implementation of Harness features"
+                              ],
+                  "kernelDependencyCheck":  "Report unresolved runtime libraries when starting a bundled kernel; no automatic dependency installation or hardware adaptation."
+              },
+    "currentBuildValidation":  "Skipped at user request: compile and archive only; no tests, model execution or archive reread.",
+    "workbenchRevision":  "r9"
+}
