@@ -118,3 +118,14 @@ Windows x64 便携本地 AI 工作台：以 DeepSeek Harness 为基础，集成�
 - **NVIDIA** CUDA / cuBLAS 及运行库：GPU 推理支持
 - **ggml**：张量计算基础
 - 感谢所有分享 GGUF / ninfer 模型的作者与量化工程师
+
+
+## 后言
+
+如果觉得比较麻烦，可以通过以下夸克连接直接下载完整包：
+
+    链接：https://pan.quark.cn/s/bf00bb142c5c
+
+    提取码：d9yH
+
+使用介绍视频链接如下：
