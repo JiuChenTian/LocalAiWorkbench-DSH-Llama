@@ -25,7 +25,7 @@ Windows x64 便携本地 AI 工作台：以 DeepSeek Harness 为基础，集成�
 | .NET 运行时 | 10.0.9（自包含） | `app/` 与 `licenses/dotnet/` |
 | WebView2 | 149.0.4022.98（本机 evergreen 副本） | 见 `licenses/WebView2-SDK/` |
 
-推理引擎内核（llama.cpp 上游 b11120 / prism 分支 b10709 / ninfer）默认不随包分发，通过“导入引擎压缩包”按需导入。
+推理引擎内核未内置，默认不随包分发，可通过“导入引擎压缩包”按需导入。
 
 ## 已实现功能
 
