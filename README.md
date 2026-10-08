@@ -1,0 +1,2 @@
+# LocalAiWorkbench-DSH-Llama
+以DeepSeekHarness为基础，集成了llama入口和ninfer入口，可以通过压缩包导入自己需要的引擎并使用（llama主分支和prism分支、ninfer分支），可以指定模型总文件路径，模型文件夹规范如下：总文件夹-A模型文件夹-A模型各种量化和视觉文件（gguf和ninfer属于不同的模型，需要分别建立模型文件夹放置）
