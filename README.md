@@ -3,7 +3,7 @@
 
 
 # 已内置：
-DeepSeekHarness 0.1.5、插件市场
+DeepSeekHarness 0.1.5、Ffmpeg 8.1.2、pnpm 10.34.6、插件市场
 
 # 已实现功能：
 1、根据模型总目录识别模型
