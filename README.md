@@ -2,7 +2,7 @@
 
 Windows x64 便携本地 AI 工作台：以 DeepSeek Harness 为基础，集成了 llama 入口和 ninfer 入口，可以通过压缩包导入自己需要的引擎并使用（llama 主分支和 prism 分支、ninfer 分支），可以指定模型总文件路径。
 
-> 当前为内部开发预览版（internal-development-preview），未签名。无需安装、无需管理员权限、不写注册表：完整解压后直接双击最外层 `LocalAiWorkbench.exe` 即可运行，整个目录可以移动。
+> 无需安装、无需管理员权限、不写注册表：完整解压后直接双击最外层 `LocalAiWorkbench.exe` 即可运行，整个目录可以移动。
 
 ## 简介
 
