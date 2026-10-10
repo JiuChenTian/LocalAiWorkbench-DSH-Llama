@@ -20,10 +20,10 @@ Windows x64 便携本地 AI 工作台：以 DeepSeek Harness 为基础，集成�
 | DeepSeek Harness | 0.1.5-rc.3 | `components/deepseek-harness/` |
 | Node.js | 24.21.0 | `runtime/node/` |
 | FFmpeg | 8.1.2 (essentials_build) | `components/ffmpeg/` |
-| pnpm | 10.34.6（隔离） | `runtime/pnpm/`，仅加入 Harness 子进程 PATH |
+| pnpm | 10.34.6（隔离环境） | `runtime/pnpm/`，仅加入 Harness 子进程 PATH |
 | dshmarket 插件市场 | 1.66.6 | `.dsh/profiles/web/`，Harness 网页“设置 → 插件市场” |
 | .NET 运行时 | 10.0.9（自包含） | `app/` 与 `licenses/dotnet/` |
-| WebView2 | 149.0.4022.98（本机 evergreen 副本） | 见 `licenses/WebView2-SDK/` |
+| WebView2 | 149.0.4022.98 | 见 `licenses/WebView2-SDK/` |
 
 推理引擎内核未内置，默认不随包分发，可通过“导入引擎压缩包”按需导入。
 
@@ -108,6 +108,7 @@ Windows x64 便携本地 AI 工作台：以 DeepSeek Harness 为基础，集成�
 
 本工作台建立在众多优秀的开源项目与社区工作之上，谨向以下项目致谢：
 
+- **ChatGPT**：本工作台的主要代码由GPT6-sol编写
 - **DeepSeek Harness**（`@deepseek-ai/dsh`）：工作台内核，提供 Agent 运行时、Web GUI、插件体系与任务管理能力
 - **llama.cpp**：本地推理引擎第一基础
 - **ninfer**：本地推理引擎第二基础
@@ -121,11 +122,5 @@ Windows x64 便携本地 AI 工作台：以 DeepSeek Harness 为基础，集成�
 
 
 ## 后言
-
-如果觉得比较麻烦，可以通过以下夸克连接直接下载完整包：
-
-    链接：https://pan.quark.cn/s/bf00bb142c5c
-
-    提取码：d9yH
 
 使用介绍视频链接如下：暂时未录制完成
