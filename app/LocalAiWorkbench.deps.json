@@ -31,10 +31,6 @@
             "assemblyVersion": "15.0.0.0",
             "fileVersion": "15.0.926.27113"
           },
-          "Microsoft.VisualBasic.dll": {
-            "assemblyVersion": "10.0.0.0",
-            "fileVersion": "10.0.926.27113"
-          },
           "Microsoft.Win32.Primitives.dll": {
             "assemblyVersion": "10.0.0.0",
             "fileVersion": "10.0.926.27113"
@@ -161,10 +157,6 @@
           },
           "System.Drawing.Primitives.dll": {
             "assemblyVersion": "10.0.0.0",
-            "fileVersion": "10.0.926.27113"
-          },
-          "System.Drawing.dll": {
-            "assemblyVersion": "4.0.0.0",
             "fileVersion": "10.0.926.27113"
           },
           "System.Dynamic.Runtime.dll": {
@@ -766,6 +758,14 @@
             "assemblyVersion": "10.0.0.0",
             "fileVersion": "10.0.926.27113"
           },
+          "Microsoft.VisualBasic.Forms.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.926.27113"
+          },
+          "Microsoft.VisualBasic.dll": {
+            "assemblyVersion": "10.1.0.0",
+            "fileVersion": "10.0.926.27113"
+          },
           "Microsoft.Win32.Registry.AccessControl.dll": {
             "assemblyVersion": "10.0.0.0",
             "fileVersion": "10.0.926.27113"
@@ -846,6 +846,10 @@
             "assemblyVersion": "10.0.0.0",
             "fileVersion": "10.0.926.27113"
           },
+          "System.Design.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.926.27113"
+          },
           "System.Diagnostics.EventLog.Messages.dll": {
             "assemblyVersion": "10.0.0.0",
             "fileVersion": "0.0.0.0"
@@ -863,6 +867,14 @@
             "fileVersion": "10.0.926.27113"
           },
           "System.Drawing.Common.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.926.27113"
+          },
+          "System.Drawing.Design.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.926.27113"
+          },
+          "System.Drawing.dll": {
             "assemblyVersion": "10.0.0.0",
             "fileVersion": "10.0.926.27113"
           },
@@ -914,6 +926,22 @@
             "assemblyVersion": "10.0.0.0",
             "fileVersion": "10.0.926.27113"
           },
+          "System.Windows.Forms.Design.Editors.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.926.27113"
+          },
+          "System.Windows.Forms.Design.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.926.27113"
+          },
+          "System.Windows.Forms.Primitives.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.926.27113"
+          },
+          "System.Windows.Forms.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.926.27113"
+          },
           "System.Windows.Input.Manipulations.dll": {
             "assemblyVersion": "10.0.0.0",
             "fileVersion": "10.0.926.27113"
@@ -947,6 +975,10 @@
             "fileVersion": "10.0.926.27113"
           },
           "WindowsBase.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.926.27113"
+          },
+          "WindowsFormsIntegration.dll": {
             "assemblyVersion": "10.0.0.0",
             "fileVersion": "10.0.926.27113"
           }
